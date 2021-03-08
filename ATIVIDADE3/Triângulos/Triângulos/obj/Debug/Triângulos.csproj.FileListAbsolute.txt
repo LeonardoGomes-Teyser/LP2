@@ -1,0 +1,10 @@
+C:\Users\Acer\OneDrive\Área de Trabalho\LP2\Projeto\Triângulos\Triângulos\Triângulos\bin\Debug\Triângulos.exe.config
+C:\Users\Acer\OneDrive\Área de Trabalho\LP2\Projeto\Triângulos\Triângulos\Triângulos\bin\Debug\Triângulos.exe
+C:\Users\Acer\OneDrive\Área de Trabalho\LP2\Projeto\Triângulos\Triângulos\Triângulos\bin\Debug\Triângulos.pdb
+C:\Users\Acer\OneDrive\Área de Trabalho\LP2\Projeto\Triângulos\Triângulos\Triângulos\obj\Debug\Triângulos.csprojAssemblyReference.cache
+C:\Users\Acer\OneDrive\Área de Trabalho\LP2\Projeto\Triângulos\Triângulos\Triângulos\obj\Debug\Triângulos.Form1.resources
+C:\Users\Acer\OneDrive\Área de Trabalho\LP2\Projeto\Triângulos\Triângulos\Triângulos\obj\Debug\Triângulos.Properties.Resources.resources
+C:\Users\Acer\OneDrive\Área de Trabalho\LP2\Projeto\Triângulos\Triângulos\Triângulos\obj\Debug\Triângulos.csproj.GenerateResource.cache
+C:\Users\Acer\OneDrive\Área de Trabalho\LP2\Projeto\Triângulos\Triângulos\Triângulos\obj\Debug\Triângulos.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Área de Trabalho\LP2\Projeto\Triângulos\Triângulos\Triângulos\obj\Debug\Triângulos.exe
+C:\Users\Acer\OneDrive\Área de Trabalho\LP2\Projeto\Triângulos\Triângulos\Triângulos\obj\Debug\Triângulos.pdb
