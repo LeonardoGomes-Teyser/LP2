@@ -1,0 +1,55 @@
+C:\Users\User\source\repos\Ptestemetodos\Ptestemetodos\bin\Debug\Ptestemetodos.exe.config
+C:\Users\User\source\repos\Ptestemetodos\Ptestemetodos\bin\Debug\Ptestemetodos.exe
+C:\Users\User\source\repos\Ptestemetodos\Ptestemetodos\bin\Debug\Ptestemetodos.pdb
+C:\Users\User\source\repos\Ptestemetodos\Ptestemetodos\obj\Debug\Ptestemetodos.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Ptestemetodos\Ptestemetodos\obj\Debug\Ptestemetodos.FrmPrincipal.resources
+C:\Users\User\source\repos\Ptestemetodos\Ptestemetodos\obj\Debug\Ptestemetodos.FrmExercicio2.resources
+C:\Users\User\source\repos\Ptestemetodos\Ptestemetodos\obj\Debug\Ptestemetodos.FrmExercicio3.resources
+C:\Users\User\source\repos\Ptestemetodos\Ptestemetodos\obj\Debug\Ptestemetodos.Properties.Resources.resources
+C:\Users\User\source\repos\Ptestemetodos\Ptestemetodos\obj\Debug\Ptestemetodos.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Ptestemetodos\Ptestemetodos\obj\Debug\Ptestemetodos.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Ptestemetodos\Ptestemetodos\obj\Debug\Ptestemetodos.exe
+C:\Users\User\source\repos\Ptestemetodos\Ptestemetodos\obj\Debug\Ptestemetodos.pdb
+C:\Users\User\source\repos\Ptestemetodos\Ptestemetodos\obj\Debug\Ptestemetodos.FrmExercicio4.resources
+C:\Users\User\source\repos\Ptestemetodos\Ptestemetodos\obj\Debug\Ptestemetodos.FrmExercicio5.resources
+C:\Users\Administrador\Downloads\Ptestemetodos\Ptestemetodos\Ptestemetodos\bin\Debug\Ptestemetodos.exe.config
+C:\Users\Administrador\Downloads\Ptestemetodos\Ptestemetodos\Ptestemetodos\bin\Debug\Ptestemetodos.exe
+C:\Users\Administrador\Downloads\Ptestemetodos\Ptestemetodos\Ptestemetodos\bin\Debug\Ptestemetodos.pdb
+C:\Users\Administrador\Downloads\Ptestemetodos\Ptestemetodos\Ptestemetodos\obj\Debug\Ptestemetodos.csprojAssemblyReference.cache
+C:\Users\Administrador\Downloads\Ptestemetodos\Ptestemetodos\Ptestemetodos\obj\Debug\Ptestemetodos.FrmPrincipal.resources
+C:\Users\Administrador\Downloads\Ptestemetodos\Ptestemetodos\Ptestemetodos\obj\Debug\Ptestemetodos.FrmExercicio2.resources
+C:\Users\Administrador\Downloads\Ptestemetodos\Ptestemetodos\Ptestemetodos\obj\Debug\Ptestemetodos.FrmExercicio3.resources
+C:\Users\Administrador\Downloads\Ptestemetodos\Ptestemetodos\Ptestemetodos\obj\Debug\Ptestemetodos.FrmExercicio4.resources
+C:\Users\Administrador\Downloads\Ptestemetodos\Ptestemetodos\Ptestemetodos\obj\Debug\Ptestemetodos.FrmExercicio5.resources
+C:\Users\Administrador\Downloads\Ptestemetodos\Ptestemetodos\Ptestemetodos\obj\Debug\Ptestemetodos.Properties.Resources.resources
+C:\Users\Administrador\Downloads\Ptestemetodos\Ptestemetodos\Ptestemetodos\obj\Debug\Ptestemetodos.csproj.GenerateResource.cache
+C:\Users\Administrador\Downloads\Ptestemetodos\Ptestemetodos\Ptestemetodos\obj\Debug\Ptestemetodos.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Downloads\Ptestemetodos\Ptestemetodos\Ptestemetodos\obj\Debug\Ptestemetodos.exe
+C:\Users\Administrador\Downloads\Ptestemetodos\Ptestemetodos\Ptestemetodos\obj\Debug\Ptestemetodos.pdb
+C:\Users\Acer\Downloads\Ptestemetodos\Ptestemetodos\Ptestemetodos\Ptestemetodos\bin\Debug\Ptestemetodos.exe.config
+C:\Users\Acer\Downloads\Ptestemetodos\Ptestemetodos\Ptestemetodos\Ptestemetodos\bin\Debug\Ptestemetodos.exe
+C:\Users\Acer\Downloads\Ptestemetodos\Ptestemetodos\Ptestemetodos\Ptestemetodos\bin\Debug\Ptestemetodos.pdb
+C:\Users\Acer\Downloads\Ptestemetodos\Ptestemetodos\Ptestemetodos\Ptestemetodos\obj\Debug\Ptestemetodos.FrmPrincipal.resources
+C:\Users\Acer\Downloads\Ptestemetodos\Ptestemetodos\Ptestemetodos\Ptestemetodos\obj\Debug\Ptestemetodos.FrmExercicio2.resources
+C:\Users\Acer\Downloads\Ptestemetodos\Ptestemetodos\Ptestemetodos\Ptestemetodos\obj\Debug\Ptestemetodos.FrmExercicio3.resources
+C:\Users\Acer\Downloads\Ptestemetodos\Ptestemetodos\Ptestemetodos\Ptestemetodos\obj\Debug\Ptestemetodos.FrmExercicio4.resources
+C:\Users\Acer\Downloads\Ptestemetodos\Ptestemetodos\Ptestemetodos\Ptestemetodos\obj\Debug\Ptestemetodos.FrmExercicio5.resources
+C:\Users\Acer\Downloads\Ptestemetodos\Ptestemetodos\Ptestemetodos\Ptestemetodos\obj\Debug\Ptestemetodos.Properties.Resources.resources
+C:\Users\Acer\Downloads\Ptestemetodos\Ptestemetodos\Ptestemetodos\Ptestemetodos\obj\Debug\Ptestemetodos.csproj.GenerateResource.cache
+C:\Users\Acer\Downloads\Ptestemetodos\Ptestemetodos\Ptestemetodos\Ptestemetodos\obj\Debug\Ptestemetodos.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Downloads\Ptestemetodos\Ptestemetodos\Ptestemetodos\Ptestemetodos\obj\Debug\Ptestemetodos.exe
+C:\Users\Acer\Downloads\Ptestemetodos\Ptestemetodos\Ptestemetodos\Ptestemetodos\obj\Debug\Ptestemetodos.pdb
+C:\Users\Acer\OneDrive\Área de Trabalho\LP2\Projeto\Ptestemetodos2\Ptestemetodos\Ptestemetodos\Ptestemetodos\bin\Debug\Ptestemetodos.exe.config
+C:\Users\Acer\OneDrive\Área de Trabalho\LP2\Projeto\Ptestemetodos2\Ptestemetodos\Ptestemetodos\Ptestemetodos\bin\Debug\Ptestemetodos.exe
+C:\Users\Acer\OneDrive\Área de Trabalho\LP2\Projeto\Ptestemetodos2\Ptestemetodos\Ptestemetodos\Ptestemetodos\bin\Debug\Ptestemetodos.pdb
+C:\Users\Acer\OneDrive\Área de Trabalho\LP2\Projeto\Ptestemetodos2\Ptestemetodos\Ptestemetodos\Ptestemetodos\obj\Debug\Ptestemetodos.csprojAssemblyReference.cache
+C:\Users\Acer\OneDrive\Área de Trabalho\LP2\Projeto\Ptestemetodos2\Ptestemetodos\Ptestemetodos\Ptestemetodos\obj\Debug\Ptestemetodos.FrmPrincipal.resources
+C:\Users\Acer\OneDrive\Área de Trabalho\LP2\Projeto\Ptestemetodos2\Ptestemetodos\Ptestemetodos\Ptestemetodos\obj\Debug\Ptestemetodos.FrmExercicio2.resources
+C:\Users\Acer\OneDrive\Área de Trabalho\LP2\Projeto\Ptestemetodos2\Ptestemetodos\Ptestemetodos\Ptestemetodos\obj\Debug\Ptestemetodos.FrmExercicio3.resources
+C:\Users\Acer\OneDrive\Área de Trabalho\LP2\Projeto\Ptestemetodos2\Ptestemetodos\Ptestemetodos\Ptestemetodos\obj\Debug\Ptestemetodos.FrmExercicio4.resources
+C:\Users\Acer\OneDrive\Área de Trabalho\LP2\Projeto\Ptestemetodos2\Ptestemetodos\Ptestemetodos\Ptestemetodos\obj\Debug\Ptestemetodos.FrmExercicio5.resources
+C:\Users\Acer\OneDrive\Área de Trabalho\LP2\Projeto\Ptestemetodos2\Ptestemetodos\Ptestemetodos\Ptestemetodos\obj\Debug\Ptestemetodos.Properties.Resources.resources
+C:\Users\Acer\OneDrive\Área de Trabalho\LP2\Projeto\Ptestemetodos2\Ptestemetodos\Ptestemetodos\Ptestemetodos\obj\Debug\Ptestemetodos.csproj.GenerateResource.cache
+C:\Users\Acer\OneDrive\Área de Trabalho\LP2\Projeto\Ptestemetodos2\Ptestemetodos\Ptestemetodos\Ptestemetodos\obj\Debug\Ptestemetodos.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Área de Trabalho\LP2\Projeto\Ptestemetodos2\Ptestemetodos\Ptestemetodos\Ptestemetodos\obj\Debug\Ptestemetodos.exe
+C:\Users\Acer\OneDrive\Área de Trabalho\LP2\Projeto\Ptestemetodos2\Ptestemetodos\Ptestemetodos\Ptestemetodos\obj\Debug\Ptestemetodos.pdb
