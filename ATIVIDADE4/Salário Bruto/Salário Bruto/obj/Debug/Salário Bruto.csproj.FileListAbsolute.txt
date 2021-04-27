@@ -1,0 +1,10 @@
+C:\Users\Acer\OneDrive\Área de Trabalho\LP2\Projeto\Salário\Salário Bruto\Salário Bruto\bin\Debug\Salário Bruto.exe.config
+C:\Users\Acer\OneDrive\Área de Trabalho\LP2\Projeto\Salário\Salário Bruto\Salário Bruto\bin\Debug\Salário Bruto.exe
+C:\Users\Acer\OneDrive\Área de Trabalho\LP2\Projeto\Salário\Salário Bruto\Salário Bruto\bin\Debug\Salário Bruto.pdb
+C:\Users\Acer\OneDrive\Área de Trabalho\LP2\Projeto\Salário\Salário Bruto\Salário Bruto\obj\Debug\Salário Bruto.csprojAssemblyReference.cache
+C:\Users\Acer\OneDrive\Área de Trabalho\LP2\Projeto\Salário\Salário Bruto\Salário Bruto\obj\Debug\Salário_Bruto.Form1.resources
+C:\Users\Acer\OneDrive\Área de Trabalho\LP2\Projeto\Salário\Salário Bruto\Salário Bruto\obj\Debug\Salário_Bruto.Properties.Resources.resources
+C:\Users\Acer\OneDrive\Área de Trabalho\LP2\Projeto\Salário\Salário Bruto\Salário Bruto\obj\Debug\Salário Bruto.csproj.GenerateResource.cache
+C:\Users\Acer\OneDrive\Área de Trabalho\LP2\Projeto\Salário\Salário Bruto\Salário Bruto\obj\Debug\Salário Bruto.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Área de Trabalho\LP2\Projeto\Salário\Salário Bruto\Salário Bruto\obj\Debug\Salário Bruto.exe
+C:\Users\Acer\OneDrive\Área de Trabalho\LP2\Projeto\Salário\Salário Bruto\Salário Bruto\obj\Debug\Salário Bruto.pdb
