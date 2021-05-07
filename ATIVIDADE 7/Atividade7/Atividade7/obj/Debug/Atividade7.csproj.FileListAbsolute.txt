@@ -1,0 +1,28 @@
+C:\Users\User\source\repos\Atividade7\Atividade7\bin\Debug\Atividade7.exe.config
+C:\Users\User\source\repos\Atividade7\Atividade7\bin\Debug\Atividade7.exe
+C:\Users\User\source\repos\Atividade7\Atividade7\bin\Debug\Atividade7.pdb
+C:\Users\User\source\repos\Atividade7\Atividade7\obj\Debug\Atividade7.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Atividade7\Atividade7\obj\Debug\Atividade7.FrmExercicio4.resources
+C:\Users\User\source\repos\Atividade7\Atividade7\obj\Debug\Atividade7.Form1.resources
+C:\Users\User\source\repos\Atividade7\Atividade7\obj\Debug\Atividade7.Properties.Resources.resources
+C:\Users\User\source\repos\Atividade7\Atividade7\obj\Debug\Atividade7.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Atividade7\Atividade7\obj\Debug\Atividade7.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Atividade7\Atividade7\obj\Debug\Atividade7.exe
+C:\Users\User\source\repos\Atividade7\Atividade7\obj\Debug\Atividade7.pdb
+C:\Users\User\source\repos\Atividade7\Atividade7\obj\Debug\Atividade7.FrmExercicio1.resources
+C:\Users\User\source\repos\Atividade7\Atividade7\obj\Debug\Atividade7.FrmExercicio2.resources
+C:\Users\User\source\repos\Atividade7\Atividade7\obj\Debug\Atividade7.FrmExercicio3.resources
+C:\Users\Acer\OneDrive\Área de Trabalho\LP2\Projeto\ATIVIDADE 7.2\Atividade7\Atividade7\Atividade7\bin\Debug\Atividade7.exe.config
+C:\Users\Acer\OneDrive\Área de Trabalho\LP2\Projeto\ATIVIDADE 7.2\Atividade7\Atividade7\Atividade7\bin\Debug\Atividade7.exe
+C:\Users\Acer\OneDrive\Área de Trabalho\LP2\Projeto\ATIVIDADE 7.2\Atividade7\Atividade7\Atividade7\bin\Debug\Atividade7.pdb
+C:\Users\Acer\OneDrive\Área de Trabalho\LP2\Projeto\ATIVIDADE 7.2\Atividade7\Atividade7\Atividade7\obj\Debug\Atividade7.csprojAssemblyReference.cache
+C:\Users\Acer\OneDrive\Área de Trabalho\LP2\Projeto\ATIVIDADE 7.2\Atividade7\Atividade7\Atividade7\obj\Debug\Atividade7.FrmExercicio1.resources
+C:\Users\Acer\OneDrive\Área de Trabalho\LP2\Projeto\ATIVIDADE 7.2\Atividade7\Atividade7\Atividade7\obj\Debug\Atividade7.FrmExercicio2.resources
+C:\Users\Acer\OneDrive\Área de Trabalho\LP2\Projeto\ATIVIDADE 7.2\Atividade7\Atividade7\Atividade7\obj\Debug\Atividade7.FrmExercicio3.resources
+C:\Users\Acer\OneDrive\Área de Trabalho\LP2\Projeto\ATIVIDADE 7.2\Atividade7\Atividade7\Atividade7\obj\Debug\Atividade7.FrmExercicio4.resources
+C:\Users\Acer\OneDrive\Área de Trabalho\LP2\Projeto\ATIVIDADE 7.2\Atividade7\Atividade7\Atividade7\obj\Debug\Atividade7.Form1.resources
+C:\Users\Acer\OneDrive\Área de Trabalho\LP2\Projeto\ATIVIDADE 7.2\Atividade7\Atividade7\Atividade7\obj\Debug\Atividade7.Properties.Resources.resources
+C:\Users\Acer\OneDrive\Área de Trabalho\LP2\Projeto\ATIVIDADE 7.2\Atividade7\Atividade7\Atividade7\obj\Debug\Atividade7.csproj.GenerateResource.cache
+C:\Users\Acer\OneDrive\Área de Trabalho\LP2\Projeto\ATIVIDADE 7.2\Atividade7\Atividade7\Atividade7\obj\Debug\Atividade7.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Área de Trabalho\LP2\Projeto\ATIVIDADE 7.2\Atividade7\Atividade7\Atividade7\obj\Debug\Atividade7.exe
+C:\Users\Acer\OneDrive\Área de Trabalho\LP2\Projeto\ATIVIDADE 7.2\Atividade7\Atividade7\Atividade7\obj\Debug\Atividade7.pdb
