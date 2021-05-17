@@ -1,0 +1,34 @@
+C:\Users\User\source\repos\Atividade8\Atividade8\bin\Debug\Atividade8.exe.config
+C:\Users\User\source\repos\Atividade8\Atividade8\bin\Debug\Atividade8.exe
+C:\Users\User\source\repos\Atividade8\Atividade8\bin\Debug\Atividade8.pdb
+C:\Users\User\source\repos\Atividade8\Atividade8\obj\Debug\Atividade8.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Atividade8\Atividade8\obj\Debug\Atividade8.Form1.resources
+C:\Users\User\source\repos\Atividade8\Atividade8\obj\Debug\Atividade8.FrmExercicio1.resources
+C:\Users\User\source\repos\Atividade8\Atividade8\obj\Debug\Atividade8.FrmExercicio2.resources
+C:\Users\User\source\repos\Atividade8\Atividade8\obj\Debug\Atividade8.FrmExercicio3.resources
+C:\Users\User\source\repos\Atividade8\Atividade8\obj\Debug\Atividade8.Properties.Resources.resources
+C:\Users\User\source\repos\Atividade8\Atividade8\obj\Debug\Atividade8.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Atividade8\Atividade8\obj\Debug\Atividade8.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Atividade8\Atividade8\obj\Debug\Atividade8.exe
+C:\Users\User\source\repos\Atividade8\Atividade8\obj\Debug\Atividade8.pdb
+C:\Users\User\source\repos\Atividade8\Atividade8\obj\Debug\Atividade8.FrmExercicio4.resources
+C:\Users\User\source\repos\Atividade8\Atividade8\obj\Debug\Atividade8.FrmExercicio5.resources
+C:\Users\User\source\repos\Atividade8\Atividade8\obj\Debug\Atividade8.FrmExercicio7.resources
+C:\Users\User\source\repos\Atividade8\Atividade8\obj\Debug\Atividade8.FrmExercicio6.resources
+C:\Users\Acer\OneDrive\Área de Trabalho\ATIVIDADE 8\Atividade8\Atividade8\bin\Debug\Atividade8.exe.config
+C:\Users\Acer\OneDrive\Área de Trabalho\ATIVIDADE 8\Atividade8\Atividade8\bin\Debug\Atividade8.exe
+C:\Users\Acer\OneDrive\Área de Trabalho\ATIVIDADE 8\Atividade8\Atividade8\bin\Debug\Atividade8.pdb
+C:\Users\Acer\OneDrive\Área de Trabalho\ATIVIDADE 8\Atividade8\Atividade8\obj\Debug\Atividade8.csprojAssemblyReference.cache
+C:\Users\Acer\OneDrive\Área de Trabalho\ATIVIDADE 8\Atividade8\Atividade8\obj\Debug\Atividade8.Form1.resources
+C:\Users\Acer\OneDrive\Área de Trabalho\ATIVIDADE 8\Atividade8\Atividade8\obj\Debug\Atividade8.FrmExercicio1.resources
+C:\Users\Acer\OneDrive\Área de Trabalho\ATIVIDADE 8\Atividade8\Atividade8\obj\Debug\Atividade8.FrmExercicio2.resources
+C:\Users\Acer\OneDrive\Área de Trabalho\ATIVIDADE 8\Atividade8\Atividade8\obj\Debug\Atividade8.FrmExercicio3.resources
+C:\Users\Acer\OneDrive\Área de Trabalho\ATIVIDADE 8\Atividade8\Atividade8\obj\Debug\Atividade8.FrmExercicio4.resources
+C:\Users\Acer\OneDrive\Área de Trabalho\ATIVIDADE 8\Atividade8\Atividade8\obj\Debug\Atividade8.FrmExercicio5.resources
+C:\Users\Acer\OneDrive\Área de Trabalho\ATIVIDADE 8\Atividade8\Atividade8\obj\Debug\Atividade8.FrmExercicio6.resources
+C:\Users\Acer\OneDrive\Área de Trabalho\ATIVIDADE 8\Atividade8\Atividade8\obj\Debug\Atividade8.FrmExercicio7.resources
+C:\Users\Acer\OneDrive\Área de Trabalho\ATIVIDADE 8\Atividade8\Atividade8\obj\Debug\Atividade8.Properties.Resources.resources
+C:\Users\Acer\OneDrive\Área de Trabalho\ATIVIDADE 8\Atividade8\Atividade8\obj\Debug\Atividade8.csproj.GenerateResource.cache
+C:\Users\Acer\OneDrive\Área de Trabalho\ATIVIDADE 8\Atividade8\Atividade8\obj\Debug\Atividade8.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Área de Trabalho\ATIVIDADE 8\Atividade8\Atividade8\obj\Debug\Atividade8.exe
+C:\Users\Acer\OneDrive\Área de Trabalho\ATIVIDADE 8\Atividade8\Atividade8\obj\Debug\Atividade8.pdb
